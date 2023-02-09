@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Estonia&family=Trochut:ital@1&family=Vujahday+Script&display=swap');
+
+
+body { background-color: rgb(59, 49, 36);}
+
+.heading { text-align: center;}
+.heading3pg {color: rgb(255, 241, 223); 
+    font-family: 'Estonia', cursive;
+    font-size: 5rem ;}
+
+
+.retsept {
+    text-align: center; 
+    color: rgb(223, 234, 255); 
+    font-family: 'Estonia', cursive;    font-size: 2rem; 
+    font-weight: 550;
+    width: 40%;
+
+    border-radius: 5%; 
+    border-width: 8px; 
+    border-style:double; 
+    border-color: rgb(168, 217, 226);
+    padding: 1%;
+    margin: 40px auto;}
+
+    #pealdis { 
+        font-size: larger; 
+        font-weight: 700; 
+        color:rgb(223, 234, 255);}
+
+
+    #img {
+        border-radius: 4px;
+        width: 800px;
+        padding: 1%;
+        margin: 0 auto;}
+
+
+.list {
+    text-align: center; 
+    color: rgb(223, 234, 255); 
+    font-family: 'Estonia', cursive;    font-size: 2rem; 
+    font-weight: 550; 
+    width: 40%;
+    border: dashed 1px rgb(255, 241, 223);; 
+    padding: 10%;
+    margin: 40px auto;}
+   
+
+    #valmistamine { font-size: larger; font-weight: 700; margin: 0 auto; color: rgb(255, 241, 223);}
+
+
+.main { border: 5px solid rgb(101, 155, 216); width: 75%; margin: 0 auto;}
+
+.link {
+    text-align: center; 
+    color: rgb(223, 234, 255); 
+    font-family: 'Estonia', cursive;    font-size: 2rem; 
+    font-weight: 550; 
+    padding: 10%;}
+
+.footer { text-align:center; 
+    font-family: 'Vujahday Script', cursive;
+    font-size: 1rem; font-weight: 700;color: rgb(255, 255, 255);}
